@@ -1,11 +1,11 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: go-api-template
-  title: Go API Template
-  description: Create a new Go API
+  name: factory-go-api-template
+  title: Factory Go API Template
+  description: Create a new Factory Go API
   tags:
-    - recommended
+    - factory
     - go
 spec:
   owner: KL-Engineering
